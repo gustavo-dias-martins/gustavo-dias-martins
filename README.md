@@ -1,16 +1,19 @@
-### Hi there 👋
+### Gustavo Martins tudo bem? :)
+Atualmente sou **Analista de Business Intelligence**. Amante sobre o desenvolvimentos de dashboards e relatórios no Power BI e estudante da linguagem de Programação Python, principalmente no assunto de **Automação de Tarefas** e **Automação Web**.
 
-<!--
-**gustavo-dias-martins/gustavo-dias-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊**Analista de Business Intelligence**
+- 🏯 Apaixonado por pela cultura japonêsa
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+</div> 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também me encontra em:
+&nbsp;<a href="https://br.linkedin.com/in/gustavodiasmartins">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5NTczYTYtYWQxYy00ZmM3LWI3OTQtOTcwMzUzNzYxZmM5IiwidCI6ImRkMTg5M2ZjLTVlMTUtNGNhNy1hOTUwLTdlZjI1OGViMTNlMyJ9">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>&nbsp;
