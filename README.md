@@ -1,7 +1,7 @@
-### Gustavo Martins tudo bem? :)
-Atualmente sou **Analista de Business Intelligence**. Amante sobre o desenvolvimentos de dashboards e relatórios no Power BI e estudante da linguagem de Programação Python, principalmente no assunto de **Automação de Tarefas** e **Automação Web**.
+### Oi, sou Gustavo Martins, tudo bem?
+Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvimentos de dashboards e relatórios no Power BI e estudante da linguagem de Programação Python, principalmente, aficionado no assunto de **Automação de Tarefas** e **Automação Web**.
 
-- 📊**Analista de Business Intelligence**
+- 📊 **Analista de Business Intelligence**
 - 🏯 Apaixonado por pela cultura japonêsa
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
