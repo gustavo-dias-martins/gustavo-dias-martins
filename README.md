@@ -14,6 +14,6 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 &nbsp;<a href="https://br.linkedin.com/in/gustavodiasmartins">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5NTczYTYtYWQxYy00ZmM3LWI3OTQtOTcwMzUzNzYxZmM5IiwidCI6ImRkMTg5M2ZjLTVlMTUtNGNhNy1hOTUwLTdlZjI1OGViMTNlMyJ9">
+&nbsp;<a href="https://biyo.page/p/gustavomartins">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>&nbsp;
