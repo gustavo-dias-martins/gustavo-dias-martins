@@ -21,16 +21,14 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 </a>&nbsp;
 
 ## Tecnologias e Ferramentas
-&nbsp;<a<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+&nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </a>&nbsp;
-&nbsp;<a<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+&nbsp;<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>&nbsp;
-&nbsp;<a<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+&nbsp;<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </a>&nbsp;
-&nbsp;<a<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+&nbsp;<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </a>&nbsp;
-&nbsp;<a<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+&nbsp;<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </a>&nbsp;
 
-&nbsp;<a<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={gustavo-dias-martins}&theme=blue-green">
-</a>&nbsp;
