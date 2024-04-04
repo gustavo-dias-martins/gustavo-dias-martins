@@ -31,7 +31,7 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 </a>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width='100'>
 </a>&nbsp;
-&nbsp;<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=power-bi-server&logoColor=white" width='100'>
+&nbsp;<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=power_bi-server&logoColor=white" width='100'>
 </a>&nbsp;
 
 
