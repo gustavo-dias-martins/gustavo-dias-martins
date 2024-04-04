@@ -33,5 +33,3 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 </a>&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustao-dias-martins&layout=compact)
-
