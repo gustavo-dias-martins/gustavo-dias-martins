@@ -12,7 +12,7 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 
 ##
 
-### 👩‍💻 Você também me encontra em:
+### Você também me encontra em:
 &nbsp;<a href="https://br.linkedin.com/in/gustavodiasmartins">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
@@ -20,7 +20,7 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>&nbsp;
 
-## Tecnologias e Ferramentas
+## 👩‍💻 Tecnologias e Ferramentas:
 &nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </a>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
