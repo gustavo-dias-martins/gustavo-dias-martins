@@ -12,7 +12,7 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 
 ##
 
-### Você também me encontra em:
+### 👩‍💻 Você também me encontra em:
 &nbsp;<a href="https://br.linkedin.com/in/gustavodiasmartins">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
