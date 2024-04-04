@@ -20,6 +20,8 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>&nbsp;
 
+<div></div> 
+
 ## 👩‍💻 Tecnologias e Ferramentas:
 &nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width='120'>
 </a>&nbsp;
