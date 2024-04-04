@@ -32,3 +32,6 @@ Atualmente sou **Analista de Business Intelligence**. Interessado em desenvolvim
 &nbsp;<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </a>&nbsp;
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-dias-martins&hide=contribs,prs)
+
